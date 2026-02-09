@@ -71,4 +71,4 @@ def read_mass_flow_data(self):
 
 
 ## 创作者
-Written by PLELES (PLELES@dfrobot.com),2026.(Welcome to our [website](https://www.dfrobot.com/))
+Written by PLELES (feng.yang@dfrobot.com),2026.(Welcome to our [website](https://www.dfrobot.com/))

@@ -75,4 +75,4 @@ def read_mass_flow_data(self):
 - 2026/01/26 - Version 1.0.0 released.
 
 ## Credits
-Written by PLELES (PLELES@dfrobot.com),2026.(Welcome to our [website](https://www.dfrobot.com/))
+Written by PLELES (feng.yang@dfrobot.com),2026.(Welcome to our [website](https://www.dfrobot.com/))
