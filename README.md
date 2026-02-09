@@ -64,7 +64,7 @@ uint8_t readMassFlowData(void);
 | Arduino MEGA2560 |  √| || |
 | Arduino Leonardo |  √| |  | |
 | FireBeeetle-M0 |  √| | | |
-| FireBeeetle-ESP32-E |  √| |  | |
+| Firebeetle 2 ESP32-E|  √| |  | |
 | ESP8266 | √  |  | | |
 | Micro:bit |  √ | | | |
 
